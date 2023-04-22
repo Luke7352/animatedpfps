@@ -4,4 +4,6 @@
 * @description Animated PFP's for me and my friends!
 * @version 1.0
 */
-@import url('https://go.valeriansmp.cyou/animatedpfp.theme.css')!imporant;
+[src^="https://cdn.discordapp.com/avatars/618024614634979329/"] {
+    content: url(https://media.tenor.com/lggaMTWU-6oAAAAM/ghost-mw2.gif?size=512)!important;
+}
