@@ -5,8 +5,8 @@
 * @version 1.0
 */
 [src^="https://cdn.discordapp.com/avatars/618024614634979329/"] {
-    content: url(https://media.tenor.com/lggaMTWU-6oAAAAM/ghost-mw2.gif?size=512)!important;
+    content: url(https://media.tenor.com/lggaMTWU-6oAAAAM/ghost-mw2.gif?size=512);
 }
 [src^="https://cdn.discordapp.com/avatars/453659601150279702/"] {
-    content: url(https://media.tenor.com/lggaMTWU-6oAAAAM/ghost-mw2.gif?size=512)!important;
+    content: url(https://media.tenor.com/lggaMTWU-6oAAAAM/ghost-mw2.gif?size=512);
 }
