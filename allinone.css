@@ -1,3 +1,61 @@
+/*ANIMATED PFPS*/
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/**
+* @name Animated PFP
+* @author Luke#4448
+* @description Animated PFP's for me and my friends!
+* @version 1.0
+*/
+
+/* Luke#4448 */
+[src^="https://cdn.discordapp.com/avatars/618024614634979329/"] {
+    content: url(https://media.tenor.com/lggaMTWU-6oAAAAM/ghost-mw2.gif?size=512);
+}
+/* PooPoo#4182 */
+[src^="https://cdn.discordapp.com/avatars/453659601150279702/"] {
+    content: url(https://i.imgur.com/kzhncnX.gif?size=512);
+}
+/* linconham#8976 */
+[src^="https://cdn.discordapp.com/avatars/749302858632921280/"] {
+    content: url(https://media.tenor.com/9MCBSj6BbOgAAAAC/ifin4n-cristiano-ronaldo.gif?size=512);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* THEMES */
 
 
@@ -1102,62 +1160,4 @@ span[data-tag*="owner"] { background-color: var(--text-warning); }
 }
 .avatar-1EWyVD > svg > foreignObject, .title-338goq, .subtext-2HDqJ7, .container-YkUktl {
     transition: all 100ms ease-in;
-}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-/*ANIMATED PFPS*/
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-/**
-* @name Animated PFP
-* @author Luke#4448
-* @description Animated PFP's for me and my friends!
-* @version 1.0
-*/
-
-/* Luke#4448 */
-[src^="https://cdn.discordapp.com/avatars/618024614634979329/"] {
-    content: url(https://media.tenor.com/lggaMTWU-6oAAAAM/ghost-mw2.gif?size=512);
-}
-/* PooPoo#4182 */
-[src^="https://cdn.discordapp.com/avatars/453659601150279702/"] {
-    content: url(https://i.imgur.com/kzhncnX.gif?size=512);
-}
-/* linconham#8976 */
-[src^="https://cdn.discordapp.com/avatars/749302858632921280/"] {
-    content: url(https://media.tenor.com/9MCBSj6BbOgAAAAC/ifin4n-cristiano-ronaldo.gif?size=512);
 }
